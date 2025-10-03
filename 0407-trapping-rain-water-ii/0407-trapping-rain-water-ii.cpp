@@ -1,51 +1,54 @@
 class Solution {
 public:
+    typedef pair<int, pair<int , int>> PP;
+    vector<vector<int>> directions = {{0 , -1} , {0 , 1} , {-1 , 0} , {1 , 0}};
+    
+    int trapRainWater(vector<vector<int>>& heightMap) {
+        int m = heightMap.size();
+        int n = heightMap[0].size();
 
-    int trapRainWater(vector<vector<int>>& heights) {
-        int vol = 0;
-        const int M = heights.size(), N = heights[0].size();
-        vector<vector<bool>> visited(M, vector<bool>(N, false));
-        vector<vector<int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        
-        auto comp = [&](const array<int, 3>& a, const array<int, 3>& b) { return a[0] >= b[0]; };
-        
-        // <height, row, col>
-        priority_queue<array<int, 3>, vector<array<int, 3>>, decltype(comp)> min_heap(comp);
-        
-        // add all boundary cells
-        // top and bottom cells
-        for(int i = 0; i < N; i++) {
-            min_heap.push({heights[0][i], 0, i}),
-            min_heap.push({heights[M-1][i], M-1, i});
-            visited[0][i] = true, visited[M-1][i] = true;
+        priority_queue<PP , vector<PP>, greater<>> BC;
+        vector<vector<bool>> visited(m , vector<bool>(n, false));
+
+        // Push left & right boundaries
+        for(int row = 0; row < m; row++) {
+            for(int col : {0 , n-1}) {
+                BC.push({heightMap[row][col] , {row , col}});
+                visited[row][col] = true;
+            }
         }
-        
-        // right and left cells
-        for(int i = 0; i < M; i++) {
-            min_heap.push({heights[i][0], i, 0}),
-            min_heap.push({heights[i][N-1], i, N-1});
-            visited[i][0] = true, visited[i][N-1] = true;
-        }
-            
-        while(!min_heap.empty()) {
-            auto [height, row, col] = min_heap.top();
-            min_heap.pop();
-            
-            // explore the neighbouring cells
-            for(auto dir: directions) {
-                int r = row + dir[0], c = col + dir[1];
-                // process the inner cell
-                if(r >= 0 && r < M && c >= 0 && c < N && !visited[r][c]) {
-                    // mark current cell as visited
-                    visited[r][c] = true;
-                    // if current is smaller, it can store water
-                    if(heights[r][c] < height)
-                        vol += height - heights[r][c];
-                    
-                    min_heap.push({max(height, heights[r][c]), r, c});
+
+        // Push top & bottom boundaries
+        for(int col = 0; col < n; col++) {
+            for(int row : {0 , m-1}) {
+                if(!visited[row][col]) {
+                    BC.push({heightMap[row][col] , {row , col}});
+                    visited[row][col] = true;
                 }
             }
         }
-        return vol;
+
+        int water = 0;
+
+        while(!BC.empty()) {
+            PP curr = BC.top();
+            BC.pop();
+
+            int height = curr.first;
+            int i = curr.second.first;
+            int j = curr.second.second;
+
+            for(vector<int>& dir : directions) {
+                int i_ = i + dir[0];
+                int j_ = j + dir[1];
+
+                if(i_ >= 0 && i_ < m && j_ >= 0 && j_ < n && !visited[i_][j_]) {
+                    water += max(height - heightMap[i_][j_], 0);
+                    BC.push({max(height , heightMap[i_][j_]) , {i_, j_}});
+                    visited[i_][j_] = true;
+                }
+            }
+        }
+        return water;
     }
 };

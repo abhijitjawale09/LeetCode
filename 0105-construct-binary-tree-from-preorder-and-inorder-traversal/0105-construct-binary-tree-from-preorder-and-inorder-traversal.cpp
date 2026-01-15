@@ -12,29 +12,26 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        unordered_map<int , int> inorderMap;
-        for (int i = 0; i < inorder.size(); i++) {
-            inorderMap[inorder[i]] = i;
-        }
+        unordered_map<int , int> mp;
 
+        for(int i =0; i < preorder.size(); i++) {
+            mp[inorder[i]] = i;
+        }
         int rootIdx = 0;
-        return build(preorder, inorderMap, rootIdx, 0, inorder.size() - 1);
+        return build(preorder , mp , rootIdx , 0 , inorder.size() -1);
     }
-
-private:
-    TreeNode* build(vector<int>& preorder, unordered_map<int, int>& inorderMap, int &rootIdx, int left, int right) {
-        if (left > right) {
-            return nullptr;
+    TreeNode* build(vector<int>&preorder , unordered_map<int, int> &mp , int &rootidx ,int left , int right) {
+        if(left > right) {
+            return NULL;
         }
+        int rootval = preorder[rootidx++];
 
-        int rootVal = preorder[rootIdx++];
-        TreeNode* newNode = new TreeNode(rootVal);
+        TreeNode* newNode = new TreeNode(rootval);
+        int pivot = mp[rootval];
 
-        int pivot = inorderMap[rootVal];
-
-        newNode->left = build(preorder, inorderMap, rootIdx, left, pivot - 1);
-        newNode->right = build(preorder, inorderMap, rootIdx, pivot + 1, right);
+        newNode->left = build(preorder , mp , rootidx , left , pivot - 1);
+        newNode->right = build(preorder , mp , rootidx , pivot + 1 , right);
 
         return newNode;
-    }
+    } 
 };

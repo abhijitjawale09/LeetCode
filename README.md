@@ -23,6 +23,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -52,4 +53,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 <!---LeetCode Topics End-->

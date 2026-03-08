@@ -7,6 +7,7 @@
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhijitjawale09/LeetCode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 <!---LeetCode Topics End-->

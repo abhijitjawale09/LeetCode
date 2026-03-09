@@ -54,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 <!---LeetCode Topics End-->

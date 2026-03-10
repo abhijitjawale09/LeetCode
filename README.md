@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +72,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 <!---LeetCode Topics End-->

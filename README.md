@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhijitjawale09/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -71,6 +72,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhijitjawale09/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
@@ -100,5 +102,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/abhijitjawale09/LeetCode/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->

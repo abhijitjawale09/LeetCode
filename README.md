@@ -20,6 +20,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhijitjawale09/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhijitjawale09/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

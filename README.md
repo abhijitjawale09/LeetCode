@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhijitjawale09/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -96,6 +97,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhijitjawale09/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/abhijitjawale09/LeetCode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -152,6 +154,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0018-4sum/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhijitjawale09/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |

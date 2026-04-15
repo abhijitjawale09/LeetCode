@@ -120,6 +120,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhijitjawale09/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/abhijitjawale09/LeetCode/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/abhijitjawale09/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |

@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0486-predict-the-winner](https://github.com/abhijitjawale09/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhijitjawale09/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhijitjawale09/LeetCode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
@@ -71,6 +72,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/abhijitjawale09/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhijitjawale09/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Sliding Window
@@ -110,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/abhijitjawale09/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0486-predict-the-winner](https://github.com/abhijitjawale09/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhijitjawale09/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -172,4 +175,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/abhijitjawale09/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0486-predict-the-winner](https://github.com/abhijitjawale09/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/abhijitjawale09/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->

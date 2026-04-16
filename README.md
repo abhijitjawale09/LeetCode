@@ -22,6 +22,7 @@
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2906-construct-product-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhijitjawale09/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/abhijitjawale09/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhijitjawale09/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhijitjawale09/LeetCode/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
@@ -70,6 +71,7 @@
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/abhijitjawale09/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhijitjawale09/LeetCode/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Math
@@ -149,6 +151,7 @@
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhijitjawale09/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/abhijitjawale09/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhijitjawale09/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |

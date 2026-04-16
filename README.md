@@ -17,6 +17,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhijitjawale09/LeetCode/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/abhijitjawale09/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhijitjawale09/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
@@ -63,6 +64,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhijitjawale09/LeetCode/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2906-construct-product-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhijitjawale09/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -123,6 +125,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/abhijitjawale09/LeetCode/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhijitjawale09/LeetCode/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/abhijitjawale09/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |

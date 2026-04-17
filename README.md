@@ -23,6 +23,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhijitjawale09/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2906-construct-product-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3181-maximum-total-reward-using-operations-ii/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhijitjawale09/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/abhijitjawale09/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -134,6 +135,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/abhijitjawale09/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3181-maximum-total-reward-using-operations-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhijitjawale09/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/abhijitjawale09/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3181-maximum-total-reward-using-operations-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -20,6 +20,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abhijitjawale09/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/abhijitjawale09/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/abhijitjawale09/LeetCode/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhijitjawale09/LeetCode/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2456-most-popular-video-creator](https://github.com/abhijitjawale09/LeetCode/tree/main/2456-most-popular-video-creator/) | Medium |
@@ -149,6 +150,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhijitjawale09/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/abhijitjawale09/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/abhijitjawale09/LeetCode/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhijitjawale09/LeetCode/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/abhijitjawale09/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -175,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/abhijitjawale09/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/abhijitjawale09/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3181-maximum-total-reward-using-operations-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -191,6 +194,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/abhijitjawale09/LeetCode/tree/main/0077-combinations/) | Medium |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/abhijitjawale09/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,4 +235,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/abhijitjawale09/LeetCode/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/abhijitjawale09/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 <!---LeetCode Topics End-->

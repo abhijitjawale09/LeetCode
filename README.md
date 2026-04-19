@@ -19,6 +19,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/abhijitjawale09/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/abhijitjawale09/LeetCode/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhijitjawale09/LeetCode/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2456-most-popular-video-creator](https://github.com/abhijitjawale09/LeetCode/tree/main/2456-most-popular-video-creator/) | Medium |
@@ -179,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/abhijitjawale09/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhijitjawale09/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/abhijitjawale09/LeetCode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
@@ -199,6 +201,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0018-4sum/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/abhijitjawale09/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhijitjawale09/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |

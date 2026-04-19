@@ -1,32 +1,67 @@
 class Solution {
 public:
-    int minSessions(vector<int>& tasks, int sessionTime) {
-        int n = tasks.size();
-        int N = 1 << n;
+    int ans = INT_MAX;
 
-        vector<pair<int,int>> dp(N, {n + 1, 0});
-        dp[0] = {1, 0};
+    unordered_map<string, int> memo;
 
-        for(int mask = 1; mask < N; mask++) {
-            for(int i = 0; i < n; i++) {
-                if(mask & (1 << i)) {
-                    auto prev = dp[mask ^ (1 << i)];
+    void solve(int idx,
+               vector<int>& tasks,
+               vector<int>& sessions,
+               int sessionTime) {
 
-                    int sessions = prev.first;
-                    int time = prev.second;
+        if(idx == tasks.size()) {
+            ans = min(ans, (int)sessions.size());
+            return;
+        }
 
-                    if(time + tasks[i] <= sessionTime) {
-                        time += tasks[i];
-                    } else {
-                        sessions++;
-                        time = tasks[i];
-                    }
+        // Create state string
+        string key = to_string(idx) + "|";
+        for(int x : sessions)
+            key += to_string(x) + ",";
 
-                    dp[mask] = min(dp[mask], {sessions, time});
-                }
+        // Memo check
+        if(memo.count(key) &&
+           memo[key] <= sessions.size())
+            return;
+
+        memo[key] = sessions.size();
+
+        // Try existing sessions
+        for(int i = 0; i < sessions.size(); i++) {
+
+            if(sessions[i] + tasks[idx] <= sessionTime) {
+
+                sessions[i] += tasks[idx];
+
+                solve(idx + 1,
+                      tasks,
+                      sessions,
+                      sessionTime);
+
+                sessions[i] -= tasks[idx];
             }
         }
 
-        return dp[N - 1].first;
+        // Create new session
+        sessions.push_back(tasks[idx]);
+
+        solve(idx + 1,
+              tasks,
+              sessions,
+              sessionTime);
+
+        sessions.pop_back();
+    }
+
+    int minSessions(vector<int>& tasks,
+                    int sessionTime) {
+
+        sort(tasks.rbegin(), tasks.rend());
+
+        vector<int> sessions;
+
+        solve(0, tasks, sessions, sessionTime);
+
+        return ans;
     }
 };

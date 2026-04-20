@@ -61,6 +61,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhijitjawale09/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
@@ -123,11 +124,13 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/abhijitjawale09/LeetCode/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -146,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/abhijitjawale09/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/abhijitjawale09/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhijitjawale09/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |

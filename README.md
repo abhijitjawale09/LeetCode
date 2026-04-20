@@ -37,6 +37,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/abhijitjawale09/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhijitjawale09/LeetCode/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhijitjawale09/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3676-count-bowl-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhijitjawale09/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Brainteaser
@@ -245,4 +246,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/abhijitjawale09/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3676-count-bowl-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/3676-count-bowl-subarrays/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3676-count-bowl-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/3676-count-bowl-subarrays/) | Medium |
 <!---LeetCode Topics End-->

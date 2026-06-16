@@ -1,31 +1,25 @@
 class Solution {
 public:
-    int removeCoveredIntervals(vector<vector<int>>& inter) {
-        int n = inter.size();
-        int m = inter[0].size();
-    
-        sort(inter.begin() , inter.end() , [](const vector<int>& a , const vector<int>& b) {
+    int removeCoveredIntervals(vector<vector<int>>& v) {
+        int n = v.size();
+        
+        sort(v.begin() , v.end() , [](const vector<int>& a , const vector<int>& b) {
             if(a[0] == b[0]) {
-              return a[1] > b[1];
+                return a[1] > b[1];
             }
             return a[0] < b[0];
         });
 
-        int a = inter[0][0];
-        int b = inter[0][1];
-
         int cnt = 0;
-        for(int i = 1; i < n ; i++) {
-            int c = inter[i][0];
-            int d = inter[i][1];
 
-            if(a <= c && b >= d) {
+        int left = -1 , right = -1;
+        for(auto it : v) {
+            if(left < it[0] && right < it[1]) {
+                left = it[0];
                 cnt++;
-            }else {
-                a = c;
-                b= d;
             }
+            right = max(right , it[1]);
         }
-        return n - cnt;
+        return cnt;
     }
 };

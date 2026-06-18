@@ -20,6 +20,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/abhijitjawale09/LeetCode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/abhijitjawale09/LeetCode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abhijitjawale09/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/abhijitjawale09/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhijitjawale09/LeetCode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+| [1646-get-maximum-in-generated-array](https://github.com/abhijitjawale09/LeetCode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/abhijitjawale09/LeetCode/tree/main/2810-faulty-keyboard/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |

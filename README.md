@@ -37,6 +37,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhijitjawale09/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/abhijitjawale09/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/abhijitjawale09/LeetCode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhijitjawale09/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhijitjawale09/LeetCode/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhijitjawale09/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -78,6 +79,7 @@
 | [0695-max-area-of-island](https://github.com/abhijitjawale09/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/abhijitjawale09/LeetCode/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/abhijitjawale09/LeetCode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/abhijitjawale09/LeetCode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/abhijitjawale09/LeetCode/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/abhijitjawale09/LeetCode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +180,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/abhijitjawale09/LeetCode/tree/main/3148-maximum-difference-score-in-a-grid/) | Medium |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3181-maximum-total-reward-using-operations-ii/) | Hard |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/abhijitjawale09/LeetCode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhijitjawale09/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |

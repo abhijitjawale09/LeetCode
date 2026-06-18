@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/abhijitjawale09/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0047-permutations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
@@ -232,6 +233,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/abhijitjawale09/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abhijitjawale09/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhijitjawale09/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Graph Theory

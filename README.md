@@ -20,6 +20,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhijitjawale09/LeetCode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/abhijitjawale09/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/abhijitjawale09/LeetCode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -101,6 +102,7 @@
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhijitjawale09/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhijitjawale09/LeetCode/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2906-construct-product-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |

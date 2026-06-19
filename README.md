@@ -12,6 +12,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/abhijitjawale09/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/abhijitjawale09/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0542-01-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhijitjawale09/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhijitjawale09/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0867-transpose-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhijitjawale09/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/abhijitjawale09/LeetCode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 ## Union-Find
@@ -102,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhijitjawale09/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0867-transpose-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -180,6 +183,7 @@
 | [0213-house-robber-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/abhijitjawale09/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/abhijitjawale09/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0542-01-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhijitjawale09/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |

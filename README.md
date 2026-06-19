@@ -14,6 +14,7 @@
 | [0493-reverse-pairs](https://github.com/abhijitjawale09/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/abhijitjawale09/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhijitjawale09/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0867-transpose-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhijitjawale09/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/abhijitjawale09/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -56,6 +57,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhijitjawale09/LeetCode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/abhijitjawale09/LeetCode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/abhijitjawale09/LeetCode/tree/main/2810-faulty-keyboard/) | Easy |
@@ -101,6 +103,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhijitjawale09/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0867-transpose-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |

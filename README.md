@@ -29,6 +29,7 @@
 | [1646-get-maximum-in-generated-array](https://github.com/abhijitjawale09/LeetCode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/abhijitjawale09/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/abhijitjawale09/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abhijitjawale09/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/abhijitjawale09/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhijitjawale09/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -171,6 +172,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/abhijitjawale09/LeetCode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhijitjawale09/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/abhijitjawale09/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2456-most-popular-video-creator](https://github.com/abhijitjawale09/LeetCode/tree/main/2456-most-popular-video-creator/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/abhijitjawale09/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
@@ -204,6 +206,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhijitjawale09/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/abhijitjawale09/LeetCode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/abhijitjawale09/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhijitjawale09/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhijitjawale09/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -309,4 +312,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/abhijitjawale09/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/abhijitjawale09/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->

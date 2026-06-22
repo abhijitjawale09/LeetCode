@@ -69,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/abhijitjawale09/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/abhijitjawale09/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhijitjawale09/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhijitjawale09/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/abhijitjawale09/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -120,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhijitjawale09/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/abhijitjawale09/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2456-most-popular-video-creator](https://github.com/abhijitjawale09/LeetCode/tree/main/2456-most-popular-video-creator/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
@@ -214,6 +216,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhijitjawale09/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/abhijitjawale09/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhijitjawale09/LeetCode/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |

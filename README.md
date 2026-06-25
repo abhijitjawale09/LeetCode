@@ -50,6 +50,7 @@
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhijitjawale09/LeetCode/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhijitjawale09/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3676-count-bowl-subarrays](https://github.com/abhijitjawale09/LeetCode/tree/main/3676-count-bowl-subarrays/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhijitjawale09/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Brainteaser
@@ -127,6 +128,7 @@
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/abhijitjawale09/LeetCode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/abhijitjawale09/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhijitjawale09/LeetCode/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhijitjawale09/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Math
@@ -152,6 +154,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +221,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/abhijitjawale09/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/abhijitjawale09/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhijitjawale09/LeetCode/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +303,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/abhijitjawale09/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,10 +312,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/abhijitjawale09/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/abhijitjawale09/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |

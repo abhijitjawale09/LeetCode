@@ -42,6 +42,7 @@
 | [2906-construct-product-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/abhijitjawale09/LeetCode/tree/main/3148-maximum-difference-score-in-a-grid/) | Medium |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/abhijitjawale09/LeetCode/tree/main/3181-maximum-total-reward-using-operations-ii/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijitjawale09/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhijitjawale09/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/abhijitjawale09/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -97,6 +98,7 @@
 | [0200-number-of-islands](https://github.com/abhijitjawale09/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhijitjawale09/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijitjawale09/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/abhijitjawale09/LeetCode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhijitjawale09/LeetCode/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2906-construct-product-matrix](https://github.com/abhijitjawale09/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/abhijitjawale09/LeetCode/tree/main/3148-maximum-difference-score-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijitjawale09/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhijitjawale09/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhijitjawale09/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
@@ -251,6 +254,7 @@
 | ------- | ------- |
 | [1514-path-with-maximum-probability](https://github.com/abhijitjawale09/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2456-most-popular-video-creator](https://github.com/abhijitjawale09/LeetCode/tree/main/2456-most-popular-video-creator/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijitjawale09/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abhijitjawale09/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -264,11 +268,13 @@
 | ------- | ------- |
 | [1514-path-with-maximum-probability](https://github.com/abhijitjawale09/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/abhijitjawale09/LeetCode/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijitjawale09/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/abhijitjawale09/LeetCode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1514-path-with-maximum-probability](https://github.com/abhijitjawale09/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhijitjawale09/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/abhijitjawale09/LeetCode/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
